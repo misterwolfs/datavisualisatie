@@ -1,0 +1,670 @@
+{
+	"keyboard" : {
+		"esc":[{"Maandag":80,"Dinsdag":35,"Woensdag":0,"Donderdag":0,"Vrijdag":0,"Zaterdag":0,"Zondag":0}],
+		"f1": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f2": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f3": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f4": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f5": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f6": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f7": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f8": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f9": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f9": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f1": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f11": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"f12": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"eject": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"tab": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"A": [{ 
+			"monday"	:	"777", 
+			"tuesday"	:	"58", 	 
+			"wednesday"	:	"1239",
+			"thursday"	:	"340",
+			"friday"	:	"120",
+			"saturday"	:	"639",
+			"sunday"	:	"329"
+		}],
+
+		"Z": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"E": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"E": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"R": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"T": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"Y": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"U": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"I": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"O": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"P": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"caret": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"dollar": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"enter": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"caps": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"Q": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"S": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"D": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"F": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"G": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"H": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"J": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"K": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"L": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"M": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"u-grave": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"accent-grave": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"shift-left-": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"less": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"W": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"X": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"C": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"V": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"B": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"N": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"comma": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"semicolon": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"colon": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"equals": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"shift-right": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"fn": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"ctrl-left": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"alt-left": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"cmd-left": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"space": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"cmd-right": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"alt-right": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"left": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"up": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"down": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}],
+
+		"right": [{ 
+			"monday"	:	"100", 
+			"tuesday"	:	"100", 	 
+			"wednesday"	:	"100",
+			"thursday"	:	"100",
+			"friday"	:	"100",
+			"saturday"	:	"100",
+			"sunday"	:	"100"
+		}]
+	}
+};
+
+
+
+
+
+
